@@ -19,6 +19,7 @@ public class BankAccount implements Comparable <BankAccount>{
 		System.out.println("\n=================================================");
 		System.out.println("\t Successfully added " + am + " euros to: " + owner);
 		System.out.println("=================================================\n");
+		System.out.println("\n=================================================");
 	}
 	
 	public boolean isOwner(String n) {
